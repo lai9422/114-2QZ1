@@ -46,7 +46,5 @@
 ![alt text](image-6.png)<br>
 ![alt text](image-9.png)<br>
 ![alt text](image-10.png)<br>
-![alt text](image-11.png)<br>
-年度 Top 10<br>
-![alt text](image-12.png)<br>
-成長/衰退分析
+![alt text](image-11.png "top10")<br>
+![alt text](image-12.png "成長/衰退分析")<br>
